@@ -1,3 +1,6 @@
+[![Discord](https://img.shields.io/badge/Community-5865f2?style=flat&logo=discord&logoColor=white)](https://discord.gg/n25xj6J6HM)
+[![License](https://img.shields.io/badge/licence-MIT-green.svg?style=flat)](LICENSE)
+
 # ThorVG Benchmark
 
 <p align="center">
