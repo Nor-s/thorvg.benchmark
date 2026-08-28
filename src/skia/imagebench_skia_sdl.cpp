@@ -73,7 +73,7 @@ void draw_images_skia(
 
   SkPaint paint;
   paint.setAntiAlias(true);
-  const SkSamplingOptions sampling(SkFilterMode::kNearest);
+  const SkSamplingOptions sampling(SkFilterMode::kLinear);
 
   const bool apply_transforms =
       transforms && transforms->size() >= positions.size();
